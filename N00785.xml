@@ -115,9 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="queries">
-            <pb facs="tcp:000944_0000_0FAD963879753E68"/>
+            <pb facs="unknown:000944_0000_0FAD963879753E68"/>
             <pb n="1"
-                facs="tcp:000944_0001_0FAD963914706430"
+                facs="unknown:000944_0001_0FAD963914706430"
                 rendition="simple:additions"/>
             <head>SOME QUERIES Sent up to his Excellency the Earl of <hi>Bellomont,</hi> by the Houſe of Repreſentatives of the Province of <hi>New-York</hi> the 31th <hi>July,</hi> 1770. concerning his Excellency's Propoſition to them of building a Fort for defence of the five Nations of <hi>Indians.</hi>
             </head>
@@ -174,7 +174,7 @@
                </gap> Fort to inſtruct the <hi>Indians,</hi> which can never be otherwiſe expected <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> be com<g ref="char:EOLhyphen"/>plyed
-<pb n="2" facs="tcp:000944_0002_0FAD9639D12E29B0"/>
+<pb n="2" facs="unknown:000944_0002_0FAD9639D12E29B0"/>
                <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> to go and live among the <gap reason="illegible: indecipherable" extent="1 span">
